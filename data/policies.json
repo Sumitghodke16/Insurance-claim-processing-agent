@@ -1,0 +1,45 @@
+[
+    {
+        "policy_id": "POL001",
+        "customer_name": "Rahul Sharma",
+        "policy_type": "vehicle",
+        "status": "active",
+        "coverage": [
+            "vehicle_accident",
+            "vehicle_damage"
+        ],
+        "maximum_claim_amount": 500000
+    },
+    {
+        "policy_id": "POL002",
+        "customer_name": "Amit Patil",
+        "policy_type": "vehicle",
+        "status": "expired",
+        "coverage": [
+            "vehicle_accident",
+            "vehicle_damage"
+        ],
+        "maximum_claim_amount": 500000
+    },
+    {
+        "policy_id": "POL003",
+        "customer_name": "Priya Deshmukh",
+        "policy_type": "health",
+        "status": "active",
+        "coverage": [
+            "hospitalization",
+            "medical_treatment"
+        ],
+        "maximum_claim_amount": 300000
+    },
+    {
+        "policy_id": "POL004",
+        "customer_name": "Vikas Joshi",
+        "policy_type": "vehicle",
+        "status": "active",
+        "coverage": [
+            "vehicle_accident"
+        ],
+        "maximum_claim_amount": 100000
+    }
+]
